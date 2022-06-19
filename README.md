@@ -22,8 +22,9 @@ This is the repo of EXO Token about to Smart Contract in the ecosystem, a resour
     🟡EXO/USDM:  0xc101ba1fd63c3697760816d7288a492ceacb46ec
     🟡EXO/DOGE:  0xe05a88d1926e717060059cb79182517d8ebafbbc
 # Dex Proxy
-    🟢DODO:0x8F8Dd7DB1bDA5eD3da8C9daf3bfa471c12d58486 
-    🟢Arken Finance: Undefined
+    🟢DODO:      0x8F8Dd7DB1bDA5eD3da8C9daf3bfa471c12d58486 
+    🟢Arken:     Undefined
+    🟢Paraswap:  0xdef171fe48cf0115b1d80b88dc8eab59176fee57  
    
    
-Last updated on February 19, 2022.
+Last updated on June 19, 2022.
