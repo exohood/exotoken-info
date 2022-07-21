@@ -28,10 +28,12 @@ This is the repo of EXO Token about to Smart Contract in the ecosystem, a resour
     🟡ETH/EXO:   0xb58030c661cfe2f110d7a8a9c43bbd621aaad9ae
     🟡EXO/USDM:  0xc101ba1fd63c3697760816d7288a492ceacb46ec
     🟡EXO/DOGE:  0xe05a88d1926e717060059cb79182517d8ebafbbc
+# RadioShack Pool ( 🚧 Coming Soon )
+    🟢EXO/-:   0x2a5aaf4b95ce3c4b2ea8c709f86abc636c2f04aa     
 # Dex Proxy
     🟢DODO:      0x8F8Dd7DB1bDA5eD3da8C9daf3bfa471c12d58486 
     🟢Arken:     Undefined
     🟢Paraswap:  0xdef171fe48cf0115b1d80b88dc8eab59176fee57  
     🟢Mobula:    Undefined 
    
-Last updated on July 07, 2022.
+Last updated on July 21, 2022.
