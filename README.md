@@ -18,7 +18,7 @@ This is the repo of EXO Token about to Smart Contract in the ecosystem, a resour
 # 🔶 BNB CHAIN
     📤: 1.000.000.000
 # 🔷 Polygon CHAIN
-    📤: 9.000.000.000
+    📤: 12.000.000.000
 # 🥞 PancakeSwap Pool  
     🟢ETH/EXO:  🔶0x63fad5f0b013df62d5675c0857745921e7d9eb80
     🟢USDT/EXO: 🔶0xf49005a01cc382bc2942bbb256c5e6d11624535f
