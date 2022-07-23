@@ -33,7 +33,7 @@ This is the repo of EXO Token about to Smart Contract in the ecosystem, a resour
     🟡EXO/USDM: 🔶0xc101ba1fd63c3697760816d7288a492ceacb46ec
     🟡EXO/DOGE: 🔶0xe05a88d1926e717060059cb79182517d8ebafbbc
 # 📻 RadioShack Pool  
-    🟢EXO/USDC: 🔶0xc5d2501dee1b96fda75f514e1d23dab49eb03119
+    🟢EXO/BUILD:🔶0xc5d2501dee1b96fda75f514e1d23dab49eb03119
 # 🦄 1inch Network Pool 🚧 
     ⚪️EXO/-:    🔷Undefined
 # Dex Proxy
