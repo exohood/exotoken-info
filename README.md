@@ -40,6 +40,6 @@ This is the repo of EXO Token about to Smart Contract in the ecosystem, a resour
     🟢DODO:      🔶0x8F8Dd7DB1bDA5eD3da8C9daf3bfa471c12d58486 
     🟢Arken:     🔶PancakeSwap Proxy
     🟢Paraswap:  🔶0xdef171fe48cf0115b1d80b88dc8eab59176fee57  
-    🟢Mobula:    🔶Undefined? 
+    🟢0X Proxy:  🔶0xdb6f1920a889355780af7570773609bd8cb1f498
    
-Last updated on July 22, 2022.
+Last updated on July 24, 2022.
