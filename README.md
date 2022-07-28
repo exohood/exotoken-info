@@ -1,5 +1,6 @@
-# EXO Token information    
-This is the repo of EXO Token about to Smart Contract in the ecosystem, a resource for the Exohood community. Remember that any user can open a pair on a DEX, supply EXO token and Liquidity.
+![Title](banner.png)
+# Liquidity Pool Information    
+Information about to Exohood Smart Contract in the ecosystem, a resource for the Exohood community. Remember that any user can open a pair on a Decentralized Exchange, supply EXO token and Liquidity.
 # References
     🟢: Active
     ⚪️: Pending
