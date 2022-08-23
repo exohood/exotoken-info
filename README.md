@@ -8,14 +8,19 @@ Information about to Exohood Smart Contract in the ecosystem, a resource for the
     ⚠️: Beware fake liquidity pair
     🔻: Low Liquidity
     🚧: Coming Soon
+    ♦️: Ethereum Chain
     🔶: BNB Chain
     🔷: Polygon Chain
 # 📄 Contract address:
+# ♦️ ETHEREUM CHAIN
+    🚧Pending
 # 🔶 BNB CHAIN
     0x7D10B6157C7C577CAa62D319dC215209Cf2dB8C3
 # 🔷 POLYGON CHAIN
     0xbd8005612124DC30601E22D8B5d188A89767c640
 # 📄 Contract Supply:
+# ♦️ ETHEREUM CHAIN
+    📤: 0
 # 🔶 BNB CHAIN
     📤: 1.000.000.000
 # 🔷 Polygon CHAIN
@@ -35,6 +40,7 @@ Information about to Exohood Smart Contract in the ecosystem, a resource for the
     🟡EXO/USDM:  🔶0xc101ba1fd63c3697760816d7288a492ceacb46ec
     🟡EXO/DOGE:  🔶0xe05a88d1926e717060059cb79182517d8ebafbbc
 # 📻 RadioShack Pool  
+    ⚪️EXO/BUILD: 🚧
     🟢EXO/BUILD: 🔶0xc5d2501dee1b96fda75f514e1d23dab49eb03119
     🟢EXO/BUILD: 🔷0x6a2b638e51fb3b4be0f05e958bfdd22b1957f237
 # 🦄 Uniswap Pool  
@@ -44,4 +50,4 @@ Information about to Exohood Smart Contract in the ecosystem, a resource for the
     🟢Paraswap:  🔶0xdef171fe48cf0115b1d80b88dc8eab59176fee57  
     🟢0X Proxy:  🔶0xdb6f1920a889355780af7570773609bd8cb1f498
    
-Last updated on July 28, 2022.
+Last updated on August 22, 2022.
