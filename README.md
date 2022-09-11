@@ -11,13 +11,14 @@ Information about to Exohood Smart Contract in the ecosystem, a resource for the
     ⚫️: Ethereum Chain
     🟡: BNB Chain
     🔵: Polygon Chain
+    🌉: Multichain Contract
 # 📄 Contract address:
 # ⚫️ ETHEREUM CHAIN
-    0xbd8005612124DC30601E22D8B5d188A89767c640
+    0xbd8005612124DC30601E22D8B5d188A89767c640 🌉
 # 🔶 BNB CHAIN
     0x7D10B6157C7C577CAa62D319dC215209Cf2dB8C3
 # 🔷 POLYGON CHAIN
-    0xbd8005612124DC30601E22D8B5d188A89767c640
+    0xbd8005612124DC30601E22D8B5d188A89767c640 🌉
 # 📄 Contract Supply:
 # ⚫️ ETHEREUM CHAIN
     📤: 1
@@ -43,11 +44,13 @@ Information about to Exohood Smart Contract in the ecosystem, a resource for the
     ⚪️EXO/BUILD: 🚧
     🟢EXO/BUILD: 🟡0xc5d2501dee1b96fda75f514e1d23dab49eb03119
     🟢EXO/BUILD: 🔵0x6a2b638e51fb3b4be0f05e958bfdd22b1957f237
+    🟢MATIC/EXO: 🔵0x4566b9a5a2b95631d71f5cd1d5f8bb1b5755a204
 # 🦄 Uniswap Pool  
-    🟢EXO/MATIC: 🔵0xe645f0255c49e98c68847175f159a848966aab3c 🔻
+    🟢EXO/MATIC: 🔵0xe645f0255c49e98c68847175f159a848966aab3c
+    🟢EXO/USDT:  🔵0x65251d36e90FCB94973DfeA9daa8f965fE593C86
 # Dex Proxy
     🟢DODO:      🔶0x8F8Dd7DB1bDA5eD3da8C9daf3bfa471c12d58486 
     🟢Paraswap:  🔶0xdef171fe48cf0115b1d80b88dc8eab59176fee57  
     🟢0X Proxy:  🔶0xdb6f1920a889355780af7570773609bd8cb1f498
    
-Last updated on September 01, 2022.
+Last updated on September 11, 2022.
