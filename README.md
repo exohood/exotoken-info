@@ -39,7 +39,7 @@ Information about to Exohood Smart Contract in the ecosystem, a resource for the
     ⚠️EXO/BTC:   🟡0x4fda805b7d624b60f6d8b1b029b6f094eeebb776 ⛔️
     🟡ETH/EXO:   🟡0xb58030c661cfe2f110d7a8a9c43bbd621aaad9ae
     🟡EXO/USDM:  🟡0xc101ba1fd63c3697760816d7288a492ceacb46ec
-    🟡EXO/DOGE:  🟡0xe05a88d1926e717060059cb79182517d8ebafbbc
+    🟡EXO/DOGE:  🟡0xe05a88d1926e717060059cb79182517d8ebafbbc ⭕️
 # 📻 RadioShack Pool  
     🟢EXO/REXO:  ⚫️0x27a8c8345d9969a81fcc7c5c13eeba4df6072065
     🟢EXO/BUILD: 🟡0xc5d2501dee1b96fda75f514e1d23dab49eb03119
@@ -53,4 +53,4 @@ Information about to Exohood Smart Contract in the ecosystem, a resource for the
     🟢Paraswap:  🔶0xdef171fe48cf0115b1d80b88dc8eab59176fee57  
     🟢0X Proxy:  🔶0xdb6f1920a889355780af7570773609bd8cb1f498
    
-Last updated on September 28, 2022.
+Last updated on November 20, 2022.
