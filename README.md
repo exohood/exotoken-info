@@ -29,10 +29,10 @@ Information about to Exohood Smart Contract in the ecosystem, a resource for the
     🔥: 218,000,001.380733407383
 # 🔵 Polygon CHAIN
     📤: 12.000.000.000
-    🔥: 6,292,854,203.000000000092885612
+    🔥: 11,292,854,203.000000000092885612
 # 🥞 PancakeSwap Pool  
     🟢ETH/EXO:   🟡0x63fad5f0b013df62d5675c0857745921e7d9eb80
-    🟢USDT/EXO:  🟡0xf49005a01cc382bc2942bbb256c5e6d11624535f 🔻
+    🟢USDT/EXO:  🟡0xf49005a01cc382bc2942bbb256c5e6d11624535f 
     🟢EXO/WBNB:  🟡0xefa4796364a2c4c48ee6a6fcc8c62123d86763c2 🔻
     🟢BTCB/EXO:  🟡0xe69e56d9e17f0a7c5f40c730639ec7cd49c0b7d7 🔻
     🟢EXO/BUSD:  🟡0x75464dc8f38c94047894af0c3374e1c8115fa86b 🔻
@@ -48,15 +48,15 @@ Information about to Exohood Smart Contract in the ecosystem, a resource for the
     🟢EXO/REXO:  ⚫️0x27a8c8345d9969a81fcc7c5c13eeba4df6072065
     🟢EXO/BUILD: 🟡0xc5d2501dee1b96fda75f514e1d23dab49eb03119
     🟢EXO/BUILD: 🔵0x6a2b638e51fb3b4be0f05e958bfdd22b1957f237
-    🟢MATIC/EXO: 🔵0x4566b9a5a2b95631d71f5cd1d5f8bb1b5755a204
+    🟢MATIC/EXO: 🔵0x4566b9a5a2b95631d71f5cd1d5f8bb1b5755a204 🔻
 # 🦄 Uniswap Pool  
-    🟢EXO/MATIC: 🔵0xe645f0255c49e98c68847175f159a848966aab3c
+    🟢EXO/MATIC: 🔵0xe645f0255c49e98c68847175f159a848966aab3c 🔻
     🟢EXO/WMATIC:🔵0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270
-    🟢EXO/USDT:  🔵0x65251d36e90FCB94973DfeA9daa8f965fE593C86
-    🟢EXO/USDT:  🔵0xc2132d05d31c914a87c6611c10748aeb04b58e8f
+    🟢EXO/USDT:  🔵0x65251d36e90FCB94973DfeA9daa8f965fE593C86 🔻
 # Dex Proxy
     🟢DODO:      🔶0x8F8Dd7DB1bDA5eD3da8C9daf3bfa471c12d58486 
+                 🔵0xf5048d8F9163AF17Db522Abe9FaF37735C911320 
     🟢Paraswap:  🔶0xdef171fe48cf0115b1d80b88dc8eab59176fee57  
     🟢0X Proxy:  🔶0xdb6f1920a889355780af7570773609bd8cb1f498
    
-Last updated on February 11, 2023.
+Last updated on May 16, 2023.
