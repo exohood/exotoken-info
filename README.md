@@ -22,7 +22,7 @@ Information about to Exohood Smart Contract in the ecosystem, a resource for the
     0xbd8005612124DC30601E22D8B5d188A89767c640 🌉
 # 📄 Contract Supply:
 # ⚫️ ETHEREUM CHAIN
-    📤: 300.000.000
+    📤: 2,000,000,000
     🔥: 1
 # 🟡 BNB CHAIN
     📤: 1.000.000.000
@@ -59,4 +59,4 @@ Information about to Exohood Smart Contract in the ecosystem, a resource for the
     🟢Paraswap:  🔶0xdef171fe48cf0115b1d80b88dc8eab59176fee57  
     🟢0X Proxy:  🔶0xdb6f1920a889355780af7570773609bd8cb1f498
    
-Last updated on Aug 24, 2023.
+Last updated on Jan 25, 2024.
